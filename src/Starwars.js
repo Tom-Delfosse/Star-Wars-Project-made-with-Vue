@@ -5,7 +5,7 @@ export default {
             location : "Outer Rim",
             sector : "Arkanis",
             catchphrase: "The planet with two sunsets",
-            banner: "://tomdelfosse.be/projets/VueSW/assets/TatooineBanner.jpg",
+            banner: "https://tomdelfosse.be/projets/VueSW/assets/TatooineBanner.jpg",
             bannerRetina: "://tomdelfosse.be/projets/VueSW/assets/TatooineBanner@2x.jpg 2x",
             bannerText: "Tatooine Landscape shining under a binary sunset.",
             climate: "desert",
