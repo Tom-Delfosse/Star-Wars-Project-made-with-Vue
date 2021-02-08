@@ -1,0 +1,62 @@
+
+// ____________*COLORS*_______________
+
+$c-red : #F14141;
+$c-white : #EEF0F2;
+$c-black : #1D2020;
+$c-dark: #0C0C0C;
+// ____________*FONTS*_______________
+
+$w--light: 100;
+$w--normal: 400;
+$w--bold: 600;
+$w--bolder: 900;
+
+// ____________*SIZE SCALES*_______________
+
+// MOBILE — SCALE : 1.25 MAJOR THIRD
+$s-mob--smaller: 0.889rem; /* 14.22px */
+$s-mob--small: 1rem; /* 16px */
+$s-mob--medium: 1.125rem; /* 18px */
+$s-mob--grand: 1.266rem; /* 20.25px */
+$s-mob--big: 1.602rem; /* 25.63px */
+$s-mob--bigger: 2.027rem; /* 32.44px */
+$s-mob--biggest: 2.887rem; /* 46.18px */
+$s-mob--massive: 3.653rem; /* 58.45px */
+
+// TAB — SCALE : 1.25 MAJOR THIRD
+$s-tab--smaller: 0.8rem; /* 12.80px */
+$s-tab--small: 1rem; /* 16px */
+$s-tab--medium: 1.25rem; /* 20px */
+$s-tab--grand: 1.563rem; /* 25px */
+$s-tab--big: 1.953rem; /* 31.25px */
+$s-tab--bigger: 2.441rem; /* 39.06px */
+$s-tab--biggest: 3.815rem; /* 61.04px */
+$s-tab--massive: 4.768rem; /* 76.29px */
+
+// DESK — SCALE : 1.414 AUGMENTED FOURTH
+$s-desk--smallest: 1rem; /* 16px */
+$s-desk--smaller: 1.414rem; /* 22.62px */
+$s-desk--small: 1.999rem; /* 31.99px */
+$s-desk--medium: 2.827rem; /* 45.23px */
+$s-desk--big: 3.998em; /* 63.96px */
+$s-desk--bigger: 5.653rem; /* 90.44px */
+$s-desk--biggest: 7.993rem; /* 127.88px */
+$s-desk--massive: 11.302rem; /* 180.83px */
+
+
+// ____________*MEDIA QUERIES*_______________
+
+$screen-sm: 425px;
+
+$screen-tb: 700px;
+
+$screen-lg: 1000px;
+
+$screen-xl: 1400px;
+
+$screen-xxl: 1900px;
+
+// ____________*MEDIA QUERIES*_______________
+$transition: .3s cubic-bezier(0.25, 1, 0.5, 1);
+
